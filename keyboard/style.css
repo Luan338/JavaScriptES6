@@ -1,0 +1,11 @@
+.aberto{
+    background-color: greenyellow;
+}
+
+.fechado{
+    background-color: red;
+}
+
+.inicial{
+    background-color: initial;
+}

@@ -1,0 +1,33 @@
+Variáveis são responsáveis por guardar dados
+na memória. Inicia com a palavra var, let ou
+const.
+
+AS VARIÁVEIS podem iniciar com $, _, ou Letras.
+Podem conter numeros mas não iniciar com eles.
+
+São CASE SENSITIVE
+nome é diferente de Nome
+
+Não utilizar palavras reservadas
+https://www.w3schools.com/js/js_reserved.asp
+
+camelCase
+É comum nomearmos assim: abrirModal
+----------------------------------------------------
+
+Mudar valor atribuído
+É possivel mudar os valores atribuídos a variáveis declaradas com var e let. Porém não é possivel
+modificar valores das declaradas com const
+
+
+EXERCÍCIO
+
+1. Declarar uma variável com o seu nome
+
+2. Declarar uma variável com sua idade
+
+3. Declarar uma variável com a sua comida favorita e não atribuir valor
+
+4. Atribuir valor a sua comida favorita
+
+5. Declarar 5 variáveis diferentes sem valores

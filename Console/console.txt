@@ -1,0 +1,1 @@
+console.table(); se tiver um objeto ele poe dentro de uma tabela
